@@ -2,7 +2,7 @@ package org.example.helpers;
 
 import com.google.gson.annotations.Expose;
 
-public class Order extends ErrorMessages {
+public class Order {
 
     public long getId() {
         return id;
